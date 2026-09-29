@@ -3,8 +3,6 @@ Ohjelmoinnin perusteiden harjoitus 5
 
 ## Opiskelija
 
-Täydennä tähän:
-
 - Lari Wihuri
 - Tiimi F
 
