@@ -4,7 +4,7 @@ Ohjelmoinnin perusteiden harjoitus 5
 ## Opiskelija
 
 - Lari Wihuri
-- Tiimi F
+- INTKM26A2
 
 ## Projektin kuvaus
 
